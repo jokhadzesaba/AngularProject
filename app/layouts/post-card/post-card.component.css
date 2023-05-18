@@ -1,0 +1,29 @@
+
+.container {
+  display: inline-block;
+  width: 250px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: solid ;
+}
+.container2 {
+  display: flex;
+  column-gap: 15%;
+}
+img {
+  width: 250px;
+}
+.title > p {
+  text-transform: uppercase;
+}
+.description {
+  word-break: break-all;
+}
+.updateDate {
+  color: rgb(196, 183, 7);
+  margin-top: 40px;
+}
+a {
+  text-decoration: none;
+}

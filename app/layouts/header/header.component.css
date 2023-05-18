@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  border-radius: 100px;
+}
+a {
+  font-size: 18px;
+  align-items: center;
+  background-color: #0a66c2;
+  border-radius: 100px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-flex;
+  line-height: 20px;
+  max-width: 480px;
+  min-height: 40px;
+  min-width: 0px;
+  overflow: hidden;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  text-decoration: none;
+}
+header {
+  height: 50px;
+}

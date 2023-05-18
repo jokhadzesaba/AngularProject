@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: aliceblue;
+}
+.container2 {
+  display: flex;
+  column-gap: 20px;
+  margin-top: 1rem;
+  margin-bottom: 10px;
+  justify-content: center;
+}
+.ANG-logo > a {
+  font-size: 18px;
+  color: rgb(15, 187, 187);
+  text-decoration: none;
+  font-size: 18px;
+  align-items: center;
+  background-color: #0a66c2;
+  border-radius: 100px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-flex;
+  line-height: 20px;
+  max-width: 480px;
+  min-height: 40px;
+  min-width: 0px;
+  overflow: hidden;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+}
+
+.ANG-logo {
+  margin-top: 10px;
+  background-color: rgb(216, 245, 216);
+}

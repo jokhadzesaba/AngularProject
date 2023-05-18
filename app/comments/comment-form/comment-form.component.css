@@ -1,0 +1,27 @@
+.container{
+  display: flex;
+  background-color: rgb(209, 221, 231);
+  justify-content: center;
+  
+}
+.comment {
+  width: 600px;
+  height: 100px;
+  padding: 10px;
+  background-color: #d0e2bc;
+  margin-top: 30px;
+
+}
+button {
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+  border: none;
+  width: 80px;
+  height: 30px;
+  cursor: pointer;
+}
+textarea{
+  width: 600px;
+  height: 50px;
+}

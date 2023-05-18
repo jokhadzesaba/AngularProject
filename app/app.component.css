@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(rgb(230rgb(182, 172, 172)4, 204) red);
+}
+.sub{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+    
+}
+.header{
+    position: sticky;
+    top: 20px;
+}
+

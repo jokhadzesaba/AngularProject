@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: rgb(191, 250, 103);
+}
+.latest-posts {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  background-color: rgb(203, 209, 223);
+}
+p {
+  font-size: 28px;
+}

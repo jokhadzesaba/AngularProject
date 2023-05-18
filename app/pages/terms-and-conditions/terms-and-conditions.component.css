@@ -1,0 +1,19 @@
+.aboutUs{
+    display: flex;
+    background-color: cornflowerblue;
+    justify-content: center;
+    
+}
+.container{
+    background-color: rgb(219, 140, 140);
+    width: 800px;
+    height: 400px;
+    word-wrap: break-word;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    margin-right:10px;
+    margin-left: 10px;
+    color: black;
+}

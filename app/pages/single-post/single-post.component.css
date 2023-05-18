@@ -1,0 +1,31 @@
+.bigContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+}
+.container {
+  width: 700px;  
+  background-color: blanchedalmond;
+}
+img{
+  width: 680px;
+  margin-top: 20px;
+}
+.container2{
+  display: flex;
+  flex-direction: column;
+  
+}
+.textContainer{
+  word-wrap: break-word;
+}
+a{
+  margin-right: 40px;
+}
+.sideBar{
+  display: flex;
+  flex-direction: column;
+  background-color: blanchedalmond;
+}
+
